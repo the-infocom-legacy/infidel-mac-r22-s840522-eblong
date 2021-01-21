@@ -1,0 +1,28 @@
+Assembling INFIDEL.XZAP.1
+
+
+Inserting INFIDELFREQ.XZAP.1	(  644 bytes)
+Inserting INFIDELDAT.ZAP.1	(18995 bytes)
+Inserting MACROS.ZAP.1	(   57 bytes)
+Inserting GLOBALS.ZAP.3	( 4433 bytes)
+Inserting SYNTAX.ZAP.1	(    0 bytes)
+Inserting CLOCK.ZAP.1	(  200 bytes)
+Inserting MAIN.ZAP.1	( 1087 bytes)
+Inserting PARSER.ZAP.1	( 4889 bytes)
+Inserting CRUFTY.XZAP.1	(   79 bytes)
+Inserting VERBS.ZAP.1	(16683 bytes)
+Inserting INTERRUPTS.ZAP.1	( 2026 bytes)
+Inserting RA.ZAP.1	( 1455 bytes)
+Inserting ANTE.ZAP.1	( 6824 bytes)
+Inserting DIAMOND.ZAP.1	( 1170 bytes)
+Inserting BARGE.ZAP.1	( 2425 bytes)
+Inserting CUBE.ZAP.1	(  850 bytes)
+Inserting CAMP.ZAP.1	( 9397 bytes)
+Inserting TEMPLE.ZAP.1	(  629 bytes)
+Inserting INFIDELSTR.ZAP.1	(22237 bytes)
+19703 bytes of preload.
+
+94144 bytes (92K).
+9152 bytes too large for one-disk game on ATARI.
+249 objects.
+176 globals.
